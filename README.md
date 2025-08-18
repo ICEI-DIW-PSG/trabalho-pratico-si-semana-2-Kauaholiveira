@@ -7,5 +7,5 @@
 - Matricula: 903204
 
 ## Print da tela da página criada (Curriculum Vitae)
+![Print da Tela da página criada](curriculoprint.png)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
