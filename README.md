@@ -3,8 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Kauã Henrique de Oliveira
+- Matricula: 903204
 
 ## Print da tela da página criada (Curriculum Vitae)
 
